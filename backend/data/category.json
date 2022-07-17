@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Sửa rửa mặt",
+        "slug": "sua rua mat"
+    },
+    {
+        "name": "Kem chống nắng",
+        "slug": "kem chong nang"
+    },
+    {
+        "name": "Toner",
+        "slug": "toner"
+    },
+    {
+        "name": "Dưỡng ẩm",
+        "slug": "duong am"
+    },
+    {
+        "name": "Serum",
+        "slug": "serum"
+    }, {
+        "name": "Tẩy trang",
+        "slug": "tay trang"
+    },
+    {
+        "name": "Mặt nạ",
+        "slug": "mat na"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Simple",
+        "slug": "simple",
+        "origin": "Anh",
+        "image": {
+            "public_id": "brands/m4z2ruxjkvb07vqanbih",
+            "url": "https://res.cloudinary.com/thanhscloud/image/upload/v1646928987/brands/m4z2ruxjkvb07vqanbih.jpg"
+        }
+    }, 
+    {
+        "name": "Cosrx",
+        "slug": "cosrx",
+        "origin": "Hàn Quốc",
+        "image": {
+            "public_id": "brands/cosrx_logo_fqsu9n",
+            "url": "https://res.cloudinary.com/thanhscloud/image/upload/v1646985515/brands/cosrx_logo_fqsu9n.jpg"
+        }
+    },
+    {
+        "name": "Senka",
+        "slug": "senka",
+        "origin": "Nhật Bản",
+        "image": {
+            "public_id": "brands/senka_logo_h60yys",
+            "url": "https://res.cloudinary.com/thanhscloud/image/upload/v1646985720/brands/senka_logo_h60yys.png"
+        }
+    },
+    {
+        "name": "The Ordinary",
+        "slug": "the ordinary",
+        "origin": "Canada",
+        "image": {
+            "public_id": "brands/the_ordinary_logo_g6za0z",
+            "url": "https://res.cloudinary.com/thanhscloud/image/upload/v1647005334/brands/the_ordinary_logo_g6za0z.jpg"
+        }
+    }
+]
